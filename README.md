@@ -15,7 +15,7 @@ devyce is in active development. Also after release you will need to install dev
 Want to change the way you ship front-end, forever ? Let's get started !
 
 Install devyce first.
-1. After you have installed Meli and have successfully logged in:
+1. After you have installed devyce and have successfully logged in:
     1. Create a site in your dashboard, say `my-site`
     1. [Upload a release with the `@getmeli/meli` CLI](https://docs.meli.sh/get-started/upload-a-site-to-meli)
     1. Setup `my-domain.com` to point to your devyce server at `my-site.devcye.site`
