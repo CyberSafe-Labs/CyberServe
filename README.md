@@ -65,7 +65,7 @@ If you develop with the UI, you'll need to clone the [UI repo](https://github.co
 You can now browse at `http://localhost:8080`:
 - `http://localhost:8080/` => UI
 - `http://localhost:8080/api`, `http://localhost:8080/auth` and `http://localhost:8080/socket.io` => API
-- `http://loopback.sh` => your sites will be served here
+- `http://devyce.site` => your sites will be served here
 
 ### DNS config
 
