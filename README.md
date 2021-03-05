@@ -7,6 +7,7 @@
 ## Disclaimer
 
 devyce is in active development. Also after release you will need to install devyce on a VPS Server of your own, after which an official devyce installation will be deployed to an VPS Server.
+Please note that the domain `devyce.site` does not exist yet please replace devyce.site to your own domain name thank you.
 
 ![Meli demo screenshot](https://raw.githubusercontent.com/getmeli/meli-brand/latest/screens/meli-site-branch.png)
 
